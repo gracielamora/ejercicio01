@@ -2,3 +2,6 @@ Este es mi archivo de descripcion del proyecto
 Autor:
 Descripcion:
 fecha de creacion:
+
+Version modoficada en la laptop, directorio ,local de la PC
+
